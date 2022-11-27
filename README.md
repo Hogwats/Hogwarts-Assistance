@@ -1,4 +1,4 @@
-At init lazing In A New Git
+At initalazing In A New Git
 
 echo "# Hogwarts-Assistance" >> README.md
 git init
