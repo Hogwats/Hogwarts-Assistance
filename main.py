@@ -91,3 +91,5 @@ if __name__ == "__main__":
         elif 'shutdown' or 'exit' or 'stop' in query:
             speak("Good Bye We Will Talk Later")
             exit()
+        else:
+            speak("I Can't Able To Understand What You Are Speaking ")
